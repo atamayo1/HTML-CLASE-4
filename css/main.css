@@ -1,0 +1,19 @@
+p, h1{
+  margin-left: 25%;
+}
+#foto{
+  position: fixed;
+  background-image: url(../imagenes/zeus160x196.jpg);
+  width: 160px;
+  height: 196px;
+  left: 50px;
+  top: 50px;
+}
+#foto2{
+  position: fixed;
+  background-image: url(../imagenes/afrodita160x196.jpg);
+  width: 160px;
+  height: 196px;
+  left: 50px;
+  top: 350px;
+}
